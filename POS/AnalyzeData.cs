@@ -26,7 +26,7 @@ namespace POS
             {
                 sss[i] = rnd.Next(-4000, 4000);
             }
-            return 0;
+            return null;
         }
         /// <summary>
         /// Method changes raw data to properly scaled preassure value.
