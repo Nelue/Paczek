@@ -57,10 +57,7 @@ namespace POS
         /// <returns>
         /// Formatted wind direction value.
         /// </returns>
-        public double CalculateWindDirection(double windDirectionData)
-        {
-            return 0;
-        }
+        
         /// <summary>
         /// Method changes raw data to properly scaled rain level value.
         /// </summary>
