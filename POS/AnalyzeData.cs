@@ -37,7 +37,7 @@ namespace POS
         /// </returns>
         public double CalculatePreassure(double preassureData)
         {
-            return 0;
+            return null;
         }
         /// <summary>
         /// Method changes raw data to properly scaled wind speed value.
@@ -48,7 +48,7 @@ namespace POS
         /// </returns>
         public double CalculateWindSpeed(double windSpeedData)
         {
-            return 0;
+            return null;
         }
         /// <summary>
         /// Method changes raw data to properly scaled wind direction value.
