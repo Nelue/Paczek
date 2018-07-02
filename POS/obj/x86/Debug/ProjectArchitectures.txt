@@ -1,1 +1,1 @@
-C:\Users\Andrzej\source\repos\POS\POS\POS.csproj;x86
+C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\POS.csproj;x86

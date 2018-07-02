@@ -8,24 +8,24 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>641d1d0a-8e70-458b-b043-bdaed568a52a</PackageIdentityName>
+    <PackageIdentityName>7df05c4d-f43e-4ec6-ba93-73d8569dfc43</PackageIdentityName>
     <PackageIdentityPublisher>CN=Andrzej</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Andrzej\source\repos\POS\POS\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\POS.exe">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\POS.exe">
       <PackagePath>entrypoint\POS.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrzej\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,53 +370,53 @@
     <AppxPackagedFile Include="C:\Users\Andrzej\.nuget\packages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\POS.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\POS.xr.xml">
       <PackagePath>POS.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\Core\POS.exe">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\Core\POS.exe">
       <PackagePath>POS.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

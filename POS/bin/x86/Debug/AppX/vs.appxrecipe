@@ -8,9 +8,9 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>641d1d0a-8e70-458b-b043-bdaed568a52a</PackageIdentityName>
+    <PackageIdentityName>7df05c4d-f43e-4ec6-ba93-73d8569dfc43</PackageIdentityName>
     <PackageIdentityPublisher>CN=Andrzej</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Andrzej\source\repos\POS\POS\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,26 +18,26 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>CF09F3C2B892C711C78DDEC73830289055BDA6AB4E37AA7F76879A59C1FA6523</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>641d1d0a-8e70-458b-b043-bdaed568a52a_1.0.0.0_x86__99s6m5pd0pmrm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>641d1d0a-8e70-458b-b043-bdaed568a52a_99s6m5pd0pmrm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>641d1d0a-8e70-458b-b043-bdaed568a52a</RegisteredPackageID>
+    <LayoutDir>C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F2510EA1EC7CF682625A445AA01A0E0F2FBBCD126C24C853DEA225683BFE2C31</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7df05c4d-f43e-4ec6-ba93-73d8569dfc43_1.0.0.0_x86__99s6m5pd0pmrm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7df05c4d-f43e-4ec6-ba93-73d8569dfc43_99s6m5pd0pmrm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7df05c4d-f43e-4ec6-ba93-73d8569dfc43</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Andrzej</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-20T14:44:40.696</Modified>
+      <Modified>2018-07-02T17:16:28.799</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\POS.exe">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\POS.exe">
       <PackagePath>entrypoint\POS.exe</PackagePath>
-      <Modified>2018-06-20T14:44:38.107</Modified>
+      <Modified>2018-07-02T17:16:28.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrzej\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,68 +495,68 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T21:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-06-13T17:22:35.537</Modified>
+      <Modified>2018-07-02T17:07:16.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-05-12T14:50:13.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\POS.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\POS.xr.xml">
       <PackagePath>POS.xr.xml</PackagePath>
-      <Modified>2018-06-20T14:44:37.858</Modified>
+      <Modified>2018-07-02T17:12:25.739</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-06-20T14:44:37.901</Modified>
+      <Modified>2018-07-02T17:12:25.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-06-20T14:44:37.902</Modified>
+      <Modified>2018-07-02T17:12:25.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T16:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-20T14:44:40.112</Modified>
+      <Modified>2018-07-02T17:12:28.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrzej\source\repos\POS\POS\bin\x86\Debug\Core\POS.exe">
+    <AppxPackagedFile Include="C:\Users\Andrzej\OneDrive\EiT\Semestr VIII\Projektowanie oprogramowania systemów\Projekt\Kod\POS_projekt\POS\POS\bin\x86\Debug\Core\POS.exe">
       <PackagePath>POS.exe</PackagePath>
-      <Modified>2018-06-20T14:44:40.687</Modified>
+      <Modified>2018-07-02T17:16:28.795</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

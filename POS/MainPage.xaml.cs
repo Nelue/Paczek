@@ -21,7 +21,7 @@ using System.Diagnostics;
 namespace POS
 {
     /// <summary>
-    /// An empty page that can be used on its own or navigated to within a Frame.
+    /// Main window page that shows data and generates interface.
     /// </summary>
     public sealed partial class MainPage : Page
     {
@@ -30,7 +30,6 @@ namespace POS
         {
             this.InitializeComponent();
 
-            
             DispatcherTimer Timer = new DispatcherTimer();
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
@@ -55,8 +54,16 @@ namespace POS
 
         private void Timer_Tick(object sender, EventArgs e)
         {
-            
+
         }
+        /// <summary>
+        /// Method used to bind data with interface.
+        /// </summary>
+        /// <param name="temperature">Temperature value.</param>
+        /// <param name="preassure">Preassure value.</param>
+        /// <param name="windSpeed">Wind speed value.</param>
+        /// <param name="windDirection">Wind direction value.</param>
+        /// <param name="rainLevel">Rain level value.</param>
         void ShowData(double temperature, double preassure, double windSpeed, double windDirection, double rainLevel)
         {
             temperatureTextBlock.Text = Convert.ToString(temperature);

@@ -9,13 +9,11 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Grid HorizontalAlignment="Left" Height="199" VerticalAlignment="Top" Width="223">
-            <TextBlock x:Name="temperatureTextBlock" HorizontalAlignment="Left" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-            <TextBlock x:Name="preassureTextBlock" HorizontalAlignment="Left" Margin="10,77,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        </Grid>
-        <TextBlock x:Name="windSpeedTextBlock" HorizontalAlignment="Left" Margin="41,227,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <TextBlock x:Name="windDirectionTextBlock" HorizontalAlignment="Left" Margin="176,237,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <TextBlock x:Name="rainLevelTextBlock" HorizontalAlignment="Left" Margin="326,199,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="temperatureTextBlock" HorizontalAlignment="Left" Margin="119,113,0,0" Text="TextBox" VerticalAlignment="Top"/>
+        <TextBox x:Name="windSpeedTextBlock" HorizontalAlignment="Left" Margin="312,145,0,0" Text="TextBox" VerticalAlignment="Top"/>
+        <TextBlock x:Name="preassureTextBlock" HorizontalAlignment="Left" Margin="287,297,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="windDirectionTextBlock" HorizontalAlignment="Left" Margin="547,376,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="rainLevelTextBlock" HorizontalAlignment="Left" Margin="287,500,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
