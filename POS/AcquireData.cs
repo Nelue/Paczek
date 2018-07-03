@@ -18,10 +18,7 @@ namespace POS
         /// <returns>
         /// Raw value of temperature.
         /// </returns>
-        public double ReadTemperatureData()
-        {
-            return 0;
-        }
+        
         /// <summary>
         /// Method that connects with preassure sensor and saves value that it returns in a variable.
         /// </summary>
