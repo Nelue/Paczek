@@ -19,10 +19,5 @@ namespace POS
         }
 
        
-
-        public double CalculateRainLevel(double rainLevelData)
-        {
-            return 0;
-        }
     }
 }
