@@ -18,15 +18,7 @@ namespace POS
             return 0;
         }
 
-        public double CalculateWindSpeed(double windSpeedData)
-        {
-            return 0;
-        }
-
-        public double CalculateWindDirection(double windDirectionData)
-        {
-            return 0;
-        } 
+       
 
         public double CalculateRainLevel(double rainLevelData)
         {
